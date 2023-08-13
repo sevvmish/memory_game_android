@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4068251124032075346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1959007637580229769}
+  - component: {fileID: 2942215001201982917}
+  m_Layer: 0
+  m_Name: AudioPack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1959007637580229769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4068251124032075346}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2942215001201982917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4068251124032075346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b958d03541e326440acc7bfb88a53fbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleClick: {fileID: 8300000, guid: 1fe38548cb22d16419b4dc73f8138c1f, type: 3}
+  ReverseClick: {fileID: 8300000, guid: aba03d1627caa454c82ac9b016ad575f, type: 3}
+  Happy01: {fileID: 8300000, guid: c705a9e6e3ad441448724eb46cb36207, type: 3}
+  CardsShuffle: {fileID: 8300000, guid: fa55ff8e45a3a9b47bfc5b4bf538b30c, type: 3}
+  WinMelody: {fileID: 8300000, guid: c2e6876715ca12b46adcbecbefd9d361, type: 3}
+  LoseMelody: {fileID: 8300000, guid: 7125750c30f9ed844a137415f5cbb9b4, type: 3}

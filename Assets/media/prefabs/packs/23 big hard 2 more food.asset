@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceab8fa81e09cd649aeccbaa82762d7a, type: 3}
+  m_Name: 23 big hard 2 more food
+  m_EditorClassIdentifier: 
+  ID: 23
+  PackName: big hard 2
+  PackDifficulty: 4
+  sprites:
+  - {fileID: 21300000, guid: 52b70ec6c4f6e164090c962928c1c95d, type: 3}
+  - {fileID: 21300000, guid: 59c0562c53f0c1044b84bf9e6bd9356b, type: 3}
+  - {fileID: 21300000, guid: 6cf17a95e44d9f5489b770fea93b63cd, type: 3}
+  - {fileID: 21300000, guid: d3c145bbebbd3e54abb121c24fd3b442, type: 3}
+  - {fileID: 21300000, guid: 6fc31519aded24a839c1af9e163b6c01, type: 3}
+  - {fileID: 21300000, guid: c549cabc0e9504b56a64b9171d8962bc, type: 3}
+  - {fileID: 21300000, guid: 31740551f69654fb7bc2a39c35d57d9c, type: 3}
+  - {fileID: 21300000, guid: 7597de3a70e2c4151875c5fb816cf0e5, type: 3}
+  - {fileID: 21300000, guid: f6d5f58465fff456eb84bd071b3134b9, type: 3}
+  - {fileID: 21300000, guid: af9dcf356be2749228f23fff1cc8b7fb, type: 3}
+  - {fileID: 21300000, guid: 44994881295ab4b1084896d685432eff, type: 3}
+  - {fileID: 21300000, guid: a2e86a433aa8b49018db7c80923744bd, type: 3}
+  - {fileID: 21300000, guid: dc278087418e64fca83b3d94ad1973ca, type: 3}
+  - {fileID: 21300000, guid: c715a9f7f4d044049ad333bf06306ed0, type: 3}
+  - {fileID: 21300000, guid: af559321fb6ed4843b3012b08adfebb9, type: 3}
+  - {fileID: 21300000, guid: fc15fec5aea6a4e7c8d3af67916b7889, type: 3}
+  - {fileID: 21300000, guid: 40e31d07a352f45ff81070def3421c8d, type: 3}
+  - {fileID: 21300000, guid: 5ed9a9ecbeca83548aa2b1c8a995901c, type: 3}
+  - {fileID: 21300000, guid: b5eb802b8d258f3489d68911a24647a2, type: 3}
+  - {fileID: 21300000, guid: 35a0695b00024f0468496805d3f3a7ba, type: 3}
+  - {fileID: 21300000, guid: 0136a0095f24ea543b94e1b35415913b, type: 3}
+  - {fileID: 21300000, guid: df40d3e5dec72471d973a4a020ddad98, type: 3}
+  - {fileID: 21300000, guid: f1a8d54e2d06a9b48ba1915871e122e9, type: 3}
+  - {fileID: 21300000, guid: 4de32b5ba6bdda54893d86c9be778e7a, type: 3}

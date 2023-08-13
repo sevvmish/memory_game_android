@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceab8fa81e09cd649aeccbaa82762d7a, type: 3}
+  m_Name: 36 small very hard food 3
+  m_EditorClassIdentifier: 
+  ID: 36
+  PackName: small very hard food 3
+  PackDifficulty: 5
+  sprites:
+  - {fileID: 21300000, guid: 394fa39b4219b4a49a9b64ee3bf35481, type: 3}
+  - {fileID: 21300000, guid: af603204026e2456a94a095e52c55613, type: 3}
+  - {fileID: 21300000, guid: 3df3c7a773f95f5429f29f0c38bee4a1, type: 3}
+  - {fileID: 21300000, guid: 76caf5e4ca559764484493b1342b0952, type: 3}
+  - {fileID: 21300000, guid: a562b053191175e4c88a8aba0e0556ec, type: 3}
+  - {fileID: 21300000, guid: 9299269859580cc44a46810497566542, type: 3}
+  - {fileID: 21300000, guid: c111a89f11f16884685ee22f228f6ca7, type: 3}
+  - {fileID: 21300000, guid: 0458919f515eb05438569243f3c46ed3, type: 3}
+  - {fileID: 21300000, guid: ed00b960127ae4346b20e316ff4a54da, type: 3}
+  - {fileID: 21300000, guid: 189111d1c3097b141aec50b9935ef0f4, type: 3}
+  - {fileID: 21300000, guid: f3dc6d7ed6312f648b0e76f2f0a78625, type: 3}
+  - {fileID: 21300000, guid: f89a4c1fde78944dcb14ead5d40721bc, type: 3}
+  - {fileID: 21300000, guid: a1a5e23bba6eb4bb199f63ad13182e00, type: 3}
